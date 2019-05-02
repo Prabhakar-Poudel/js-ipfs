@@ -132,7 +132,7 @@
     "is-stream": "^1.1.0",
     "iso-url": "~0.4.6",
     "joi": "^14.3.0",
-    "ipfs-utils": "github:hugomrdias/js-ipfs-utils#master",
+    "js-ipfs-utils": "github:hugomrdias/js-ipfs-utils#master",
     "just-flatten-it": "^2.1.0",
     "just-safe-set": "^2.1.0",
     "kind-of": "^6.0.2",
